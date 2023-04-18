@@ -1,0 +1,15 @@
+E:\Pemograman\encapsulation\bin\Debug\net7.0\encapsulation.exe
+E:\Pemograman\encapsulation\bin\Debug\net7.0\encapsulation.deps.json
+E:\Pemograman\encapsulation\bin\Debug\net7.0\encapsulation.runtimeconfig.json
+E:\Pemograman\encapsulation\bin\Debug\net7.0\encapsulation.dll
+E:\Pemograman\encapsulation\bin\Debug\net7.0\encapsulation.pdb
+E:\Pemograman\encapsulation\obj\Debug\net7.0\encapsulation.csproj.AssemblyReference.cache
+E:\Pemograman\encapsulation\obj\Debug\net7.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pemograman\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfoInputs.cache
+E:\Pemograman\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfo.cs
+E:\Pemograman\encapsulation\obj\Debug\net7.0\encapsulation.csproj.CoreCompileInputs.cache
+E:\Pemograman\encapsulation\obj\Debug\net7.0\encapsulation.dll
+E:\Pemograman\encapsulation\obj\Debug\net7.0\refint\encapsulation.dll
+E:\Pemograman\encapsulation\obj\Debug\net7.0\encapsulation.pdb
+E:\Pemograman\encapsulation\obj\Debug\net7.0\encapsulation.genruntimeconfig.cache
+E:\Pemograman\encapsulation\obj\Debug\net7.0\ref\encapsulation.dll
